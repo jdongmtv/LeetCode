@@ -29,7 +29,7 @@ public class RotateImage {
     }
     
     public static void main(String[] args) {
-    	int[][] matrix1 = {{1}};
+//    	int[][] matrix1 = {{1}};
     	int[][] matrix2 = {{1,2},{3,4}};
     	rotate(matrix2);
     	for(int i=0; i<matrix2.length; i++) {
